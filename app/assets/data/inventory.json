@@ -1,0 +1,196 @@
+[{
+  "_id": "1",
+  "index": 0,
+  "rental": {
+    "daily": "$80",
+    "weekly": "$1,600",
+    "monthly": "$3,333"
+  },
+  "picture": "assets/images/chevy_malibu.jpg",
+  "description": "Adipisicing aliqua amet proident ipsum deserunt velit do reprehenderit culpa dolore veniam.Duis sunt tempor exercitation eu do sunt deserunt consectetur.Culpa aliqua deserunt adipisicing tempor quis dolore do consequat ea proident velit. Occaecat occaecat non commodo sit culpa ipsum ea commodo eu voluptate nulla pariatur duis. Mollit elit qui incididunt culpa dolor. Ullamco aliquip elit mollit nulla.\r\n",
+  "make": "MINI",
+  "model": "MNX-1"
+},
+  {
+    "_id": "2",
+    "index": 1,
+    "rental": {
+      "daily": "$123",
+      "weekly": "$1,200",
+      "monthly": "$3,200"
+    },
+    "picture": "assets/images/nissan_versa.jpg",
+    "description": "Voluptate amet nulla proident eiusmod nisicillum aliqua reprehenderit.Cillum amet ea do quis sit commodo sit minim aliquip elit enim sint nulla.Officia nisi excepteur cupidatat nisi magna consectetur tempor eiusmod voluptate.In quinulla nisi culpa enim laborum laborum ullamco.Nostrud magna sunt in ex mollit consectetur cupidatat minim ullamco id proident autecillum exercitation.Exercitation adipisicing cillum excepteuroccaecat nulla Lorem ad enim.\r\n",
+    "make": "NOYX",
+    "model": "MNX-2"
+  },
+  {
+    "_id": "3",
+    "index": 2,
+    "rental": {
+      "daily": "$86",
+      "weekly": "$978",
+      "monthly": "$3,984"
+    },
+    "picture": "assets/images/ford-fiesta.jpg",
+    "description": "Nulla amet commodo irure reprehenderit reprehenderit sint excepteur ut quis voluptate tempor.Veniam culpa occaecat et incididunt commodo incididunt elit esse qui ipsum consequat cillum.Eu excepteur nulla voluptate sunt magna irure aute aliquip exercitation veniam labore.Ea non laborum non amet occaecat eiusmod magna officia ex in dolor do .Amet tempor Lorem eu esse nisi aliquip deserunt minim.Velit voluptate adipisicing quielit mollit aute qui.\r\n",
+    "make": "BIX",
+    "model": "MNX-3"
+  },
+  {
+    "_id": "4",
+    "index": 3,
+    "rental": {
+      "daily": "$133",
+      "weekly": "$1020",
+      "monthly": "$4,500"
+    },
+    "picture": "assets/images/ford_fusion.jpg",
+    "description": "Sunt et est labore irure. Non enim incididunt officia ea adipisicing deserunt ipsum labore.Anim minim aute tempor reprehenderit dolore ut ipsum nostrud labore reprehenderit consequat duis.Nostrud ex est aliquip mollit minim dolor irure eumagna exercitation.In non tempor commodo ipsum amet ut ut dolor minim elit.\r\n",
+    "make": "TOLOX",
+    "model": "MNX-4"
+  },
+  {
+    "_id": "5",
+    "index": 4,
+    "rental": {
+      "daily": "$70",
+      "weekly": "$1,290",
+      "monthly": "$4,632"
+    },
+    "picture": "assets/images/honda-fit.jpg",
+    "description": "Sunt enim tempor amet mollit nisi irure laboris.Do esse cillum consectetur cupidatat laboris elit irure eaquis adipisicing.Pariatur non consequat nulla ad enim amet Lorem aute sunt.Amet commodo anim deserunt consectetur consequat eiusmod.Sint aliqua reprehenderit quis do eiusmod esse ullamco aliquip eiusmod cupidatat qui.Consequat esse officia mollit Lorem sit elit.Irure excepteur sunt veniam et nisi veniam cupidatat ex.\r\n",
+    "make": "BELG",
+    "model": "MNX-5"
+  },
+  {
+    "_id": "6",
+    "index": 5,
+    "rental": {
+      "daily": "$150",
+      "weekly": "$1,500",
+      "monthly": "$3,900"
+    },
+    "picture": "assets/images/honda_accord.jpg",
+    "description": "Ad cillum officia sit ullamco ipsum proident. Aliqua veniam occaecat incididunt exercitation dolor in ea elit incididunt dolore laboris.Amet ad deserunt sunt veniam anim. Laboris dolore cupidatat fugiat proident nulla aute.\r\n",
+    "make": "PIXL",
+    "model": "MNX-6"
+  },
+  {
+    "_id": "7",
+    "index": 6,
+    "rental": {
+      "daily": "$187",
+      "weekly": "$1,657",
+      "monthly": "$4,123"
+    },
+    "picture": "assets/images/hyundai-accent.jpg",
+    "description": "Qui pariatur excepteur ullamco non dolor. Irure est est sint duis dolore elit consequat dolor excepteur dolor. Reprehenderit exercitation sint anim sunt tempor adipisicing velit id ipsum magna tempor ad.\r\n",
+    "make": "TIRR",
+    "model": "MNX-7"
+  },
+  {
+    "_id": "8",
+    "index": 7,
+    "rental": {
+      "daily": "$129",
+      "weekly": "$1,300",
+      "monthly": "$3,900"
+    },
+    "picture": "assets/images/hyundai_azera.jpg",
+    "description": "Minim culpa laborum occaecat aliqua amet. Veniam pariatur duis aliquip voluptate. Esse tempor fugiat mollit labore culpa officia consequat est pariatur magna veniam. Proident irure ut minim nisi do ex ullamco non labore duis excepteur dolore cillum aute. Mollit ipsum minim id mollit aliquip nisi occaecat dolor id mollit.",
+    "make": "ZODI",
+    "model": "MNX-8"
+  },
+  {
+    "_id": "9",
+    "index": 8,
+    "rental": {
+      "daily": "$80",
+      "weekly": "$980",
+      "monthly": "$2,999"
+    },
+    "picture": "assets/images/hyundai_sonata.jpg",
+    "description": "Culpa sit dolor nulla enim consectetur. Amet anim dolore adipisicing occaecat tempor incididunt duis veniam.Ea est anim nulla do laboris id velit est veniam.\r\n",
+    "make": "BXW",
+    "model": "MNX-9"
+  },
+  {
+    "_id": "10",
+    "index": 9,
+    "rental": {
+      "daily": "$67",
+      "weekly": "$1,400",
+      "monthly": "$4,100"
+    },
+    "picture": "assets/images/kia-rio.jpg",
+    "description": "Sint sint commodo id ipsum ipsum commodo quis aliquip consectetur.Nulla sit quis pariatur voluptate qui fugiat adipisicing.Irure nisi labore do ullamco do velit magna officia id ut qui cillum nisi.Pariatur duis et dolor incididunt velit nulla occaecat aute ex nostrud eu sint.Nulla reprehenderit magna occaecat eiusmod id consectetur amet labore.Nisi Lorem ea id irure deserunt voluptate exercitation pariatur labore qui anim veniam pariatur ex.Cillum eiusmod ullamco et ea.\r\n",
+    "make": "GUJU",
+    "model": "MNX-10"
+  },
+  {
+    "_id": "11",
+    "index": 10,
+    "rental": {
+      "daily": "$90",
+      "weekly": "$694",
+      "monthly": "$2,700"
+    },
+    "picture": "assets/images/kia_optima.jpg",
+    "description": "Pariatur tempor deserunt nisi eiusmod proident non.Eiusmod elit irure elit labore magna amet eu quis ut proident adipisicing magna qui.Duis in amet amet anim Lorem quis adipisicing culpa et anim anim laborum nulla.\r\n",
+    "make": "NIX",
+    "model": "MNX-11"
+  },
+  {
+    "_id": "12",
+    "index": 11,
+    "rental": {
+      "daily": "$138",
+      "weekly": "$1,500",
+      "monthly": "$3,690"
+    },
+    "picture": "assets/images/mazda.jpg",
+    "description": "Ut sunt nulla commodo laborum esse ullamco nisi incididunt ea incididunt proident.Anim esse aliquip incididunt voluptate fugiat ullamco laboris.Pariatur enim commodo aliquip dolore id enim ut exercitation laboris pariatur non esse sunt enim. ",
+    "make": "HIY",
+    "model": "MNX-12"
+  },
+  {
+    "_id": "13",
+    "index": 12,
+    "rental": {
+      "daily": "$145",
+      "weekly": "$1,345",
+      "monthly": "$4,987"
+    },
+    "picture": "assets/images/mitsubishi-mirage.jpg",
+    "description": "Laborum labore do proident commodo nulla. Consequat culpa voluptate qui cillum aute nostrud reprehenderit quis qui do nostrud est.Sit id labore dolor nulla aute aliqua velit ea in ipsum proident ipsum irure labore.Ipsum ut veniam occaecat id.Ipsum est laboris ad ex est ea voluptate laborum culpa non.Minim duis in ut elit. ",
+    "make": "REX",
+    "model": "MNX-13"
+  },
+  {
+    "_id": "14",
+    "index": 13,
+    "rental": {
+      "daily": "$146",
+      "weekly": "$1,389",
+      "monthly": "$3,723"
+    },
+    "picture": "assets/images/nissan_altima.jpg",
+    "description": "Dolore sint ea labore veniam est do excepteur veniam ex sunt sunt.Labore magna sit et non culpa.Consectetur nulla officia laborum ad dolor ipsum labore.Nulla sit ut ad est magna nostrud cupidatat enim esse aute pariatur.Enim ipsum dolor est id laborum ex.Lorem nulla eu eu eiusmod qui ea occaecat ullamco eiusmod nostrud incididunt.Dolore voluptate laboris adipisicing aliquip aliquip adipisicing nisi irure nisi. ",
+    "make": "KITER",
+    "model": "MNX-14"
+  },
+  {
+    "_id": "15",
+    "index": 14,
+    "rental": {
+      "daily": "$54",
+      "weekly": "$890",
+      "monthly": "$2,590"
+    },
+    "picture": "assets/images/nissan_versa.jpg",
+    "description": "Consectetur aliquip ipsum officia tempor velit nulla commodo velit occaecat minim nostrud nostrud dolor.Eiusmod aliquip aliqua magna consectetur culpa elit Lorem exercitation ut. Ad ea sunt ipsum sint qui consectetur dolore mollit velit deserunt consequat Lorem do . ",
+    "make": "KPX",
+    "model": "MNX-15"
+  }
+]

@@ -1,0 +1,16 @@
+<table class="table table-bordered table-hover table-responsive">
+    <thead>
+    <tr>
+        <th>Icon</th>
+        <th>Make/Model</th>
+        <th>Rental Costs</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr ng-repeat="rentalInfo in vm.rentalData" ng-click="vm.selectRental(rentalInfo)">
+        <td><img ng-src={{rentalInfo.picture}}></td>
+        <td>{{rentalInfo.make}}/{{rentalInfo.model}}</td>
+        <td>{{rentalInfo.rental.daily}} d {{rentalInfo.rental.weekly}} w {{rentalInfo.rental.monthly}} m</td>
+    </tr>
+    </tbody>
+</table>

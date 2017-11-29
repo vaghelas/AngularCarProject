@@ -1,0 +1,46 @@
+.payment-details{
+    width:75%;
+    margin:auto;
+}
+.purchase-card{
+    width: 60%;
+    margin: 10px auto;
+    background-color: #f3f3f3;
+    padding: 10px;
+    border-radius: 10px;
+}
+.purchase{
+    text-align:center;
+}
+.credit{
+    width: 100%;
+    margin: 45px auto;
+}
+.credit:after{
+    content:'';
+    display:block;
+    clear:both;
+}
+.credit label{
+    float:left;
+    margin-top: 5px;
+}
+.credit input{
+    float: left;
+    width: 70%;
+    margin-left: 10px;
+}
+.pay-btn{
+    display: block;
+    margin: auto;
+}
+#modal-body{
+    text-align: center;
+}
+.ok{
+    margin: auto !important;
+    display: block;
+}
+.table>tbody>tr>td,.table>thead>tr>th{
+    text-align: center;
+}

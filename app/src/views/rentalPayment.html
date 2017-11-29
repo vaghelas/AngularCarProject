@@ -1,0 +1,21 @@
+<form name="paymentForm">
+    <div class="purchase-card">
+        <h2 class="purchase">{{vm.selectedInventoryData.make}} {{vm.selectedInventoryData.model}}</h2>
+        <div class="form-group">
+            <div class="credit">
+                <label for="card">Credit Card Number</label>
+                <input  type="text"
+                        id="card"
+                        name="creditCard"
+                        ng-model="vm.number"
+                        required
+                        cc-number
+                        cc-eager-type
+                        placeholder="Card Number"
+                        class="form-control"
+                        >
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary pay-btn" ng-click="vm.pay(paymentForm)">Pay</button>
+    </div>
+</form>

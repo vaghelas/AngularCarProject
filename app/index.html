@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="rentalPaymentApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="rentalPaymentApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="rentalPaymentApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="rentalPaymentApp" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Rental Inventory Application</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/normalize.css">
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/main.css">
+  <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+  <script src="bower_components/angular/angular.js"></script>
+  <link rel="stylesheet" type="text/css" href="assets/styles/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="assets/styles/styles.css">
+  <script src="bower_components/jquery/dist/jquery.min.js" type="text/javascript"></script>
+  <script src="bower_components/angular-credit-cards/release/angular-credit-cards.js" type="text/javascript"></script>
+  <script src="bower_components/angular-ui-bootstrap-bower/ui-bootstrap-tpls.js"></script>
+  <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+</head>
+<body ng-app="rentalPaymentApp">
+
+<div class="payment-details" ui-view></div>
+
+  <script src="src/app.module.js" type="text/javascript"></script>
+  <script src="src/app.routes.js" type="text/javascript"></script>
+  <script src="src/shared/services/rentalPaymentServices.js" type="text/javascript"></script>
+  <script src="src/shared/filters/vardValidFilter.js" type="text/javascript"></script>
+  <script src="src/controllers/rentalInventoryController.js" type="text/javascript"></script>
+  <script src="src/controllers/rentalPaymentController.js" type="text/javascript"></script>
+  <script src="src/controllers/validController.js" type="text/javascript"></script>
+
+</body>
+</html>
